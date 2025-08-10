@@ -10,7 +10,7 @@ function Approutes(){
             <Routes>
                 <Route path="/" element={ <Home/> }></Route>
                 <Route path="/duns" element={ <Duns/> }></Route>
-                <Route path="/Android" element={ <Android/> }></Route>
+                <Route path="/android" element={ <Android/> }></Route>
             </Routes>
         </BrowserRouter>
     )

@@ -9,7 +9,7 @@ function Header(props){
         <header>
             <img src={fulltime}/>
             <h1>{props.content}</h1>
-            <Botao nome='Proxima etapa' endereco={props.endereco}/>
+            <Botao nome='Proxima etapa' endereco={props.endereco}  />
         </header>
     )
     

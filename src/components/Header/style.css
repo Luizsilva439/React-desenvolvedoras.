@@ -1,4 +1,12 @@
 header{
     display: flex;
     justify-content: space-between;
+    margin: 1%;
+    
+}
+
+h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+
 }
