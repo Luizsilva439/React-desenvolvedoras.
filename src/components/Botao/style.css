@@ -1,0 +1,13 @@
+.Botao {
+  width: 192.85px;
+  height: 44.01px;
+  border-radius: 60px;
+  background-color: #ff0000;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #e0e0e0;
+  font-weight: bold;
+}
