@@ -4,7 +4,7 @@ import Header from '../../components/Header'
 function Android(){
     return(
         <div>
-            <Header/>
+            <Header content="Criando a loja android"/>
         </div>
     )   
 }
